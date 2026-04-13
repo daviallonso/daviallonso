@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=111184"/>
 </div>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fjalla+One&size=21&duration=4000&pause=1000&color=1200F7&center=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Davi+(%40daviallonso)!;Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B%F0%9F%8F%BB;Estudante+de+Python+e+Git!+%F0%9F%91%BE;Perfil+proativo+e+respons%C3%A1vel!+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 # Quem sou eu?
